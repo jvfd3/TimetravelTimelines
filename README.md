@@ -10,6 +10,7 @@ A collection of timetravel around many media
 | Anime        | Re:Zero kara Hajimeru Isekai Seikatsu        |        Many         |       No        |       Yes       |                      |
 | Anime        | Steins;Gate                                  |          ?          |        ?        |        ?        |                      |
 | Anime        | Kimi no Na wa                                |         One         |       Yes       |       Yes       |         No?          |
+| Anime        | Undead Unluck                                |   Many; Timeloop    |       Yes       |       Yes       |         Yes?         |
 | Game         | Braid                                        |         One         |                 |      "Yes"      |                      |
 | Game         | Life is Strange                              |          ?          |                 |                 |                      |
 | Movie        | 13 Going on 30                               |                     |                 |                 |                      |
